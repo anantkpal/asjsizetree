@@ -17,5 +17,4 @@ java -jar ASJSizeTree_<Version>.jar
 
 
 ##Copyright And License
-Copyright (c) 2013,2014 Anant Pal(anantkpal@yahoo.co.in) All rights reserved. 
-The copyrights embodied in the content of this file are licensed by Anant Pal(anantkpal@yahoo.co.in) under the EPL1.0 License.
+Copyright (c) 2013,2014 Anant Pal(anantkpal@yahoo.co.in) All rights reserved.
